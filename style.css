@@ -1,0 +1,36 @@
+
+body{
+	font-style: lato;
+	background-image:url(slash_it/slash_it.png); /*from www.subtlepatterns.com*/
+}
+span {
+	color: #ff0000;
+	font-style: oblique;
+}
+
+.jumbotron{
+	padding: 0;
+	margin:0;
+	background-color: transparent;
+}
+.row{
+	margin: 0;
+	padding: 0;
+}
+p{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: #a6a6a6;
+}
+
+a:visited{
+	text-decoration: none;
+	color: #a6a6a6;
+}
+a:hover{
+	color: #d9d9d9;
+	text-decoration: none;
+}
